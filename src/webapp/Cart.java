@@ -6,5 +6,5 @@ public class Cart {
     // total
     // promo code
 
-    //deals
+
 }
